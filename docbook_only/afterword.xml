@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<appendix id="afterword" role="afterword">
+  <title>Afterword</title>
+
+  <para>Put the text of your Afterword here...</para>
+
+  <para>Note this is an <literal>&lt;appendix&gt;</literal> element with
+  <literal>role="afterword"</literal>. It will render as a “moral” Afterword,
+  showing the title but suppressing the usual Appendix label from TOC, opener,
+  footers, and PDF bookmark.</para>
+</appendix>

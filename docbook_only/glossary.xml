@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossary PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<glossary id="glossary">
+  <title>Glossary</title>
+
+  <para>A glossary contains a collection of terms and brief descriptions or
+  definitions of those terms. The basic markup follows.</para>
+
+  <glossentry id="term1">
+    <glossterm>Term1</glossterm>
+
+    <glossdef>
+      <para>This is the definition of Term1.</para>
+    </glossdef>
+  </glossentry>
+
+  <glossentry id="term2">
+    <glossterm>Term2</glossterm>
+
+    <glosssee otherterm="term1"></glosssee>
+  </glossentry>
+
+  <glossentry id="term3">
+    <glossterm>Term3</glossterm>
+
+    <glossdef>
+      <para>This is the definition of Term3. It includes a “see also”
+      reference.</para>
+
+      <glossseealso otherterm="term1"></glossseealso>
+    </glossdef>
+  </glossentry>
+
+  <glossentry id="term4">
+    <glossterm>Term4</glossterm>
+
+    <glossdef>
+      <para>This is the definition of Term4. It includes two “see also”
+      references.</para>
+
+      <glossseealso otherterm="term1"></glossseealso>
+
+      <glossseealso otherterm="term2"></glossseealso>
+    </glossdef>
+  </glossentry>
+</glossary>

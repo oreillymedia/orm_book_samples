@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dedication PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<dedication>
+  <blockquote>
+    <attribution>A. T. Moseley</attribution>
+    <para>For all the toolsmiths who don’t yet have a name for what they do.</para>
+  </blockquote>
+  <blockquote>
+    <attribution>L. Cohen</attribution>
+    <para>Ditto. Sincerely.</para>
+  </blockquote>
+  <para>(If either of us forgot to mention you, please use the View/Submit Errata link on the catalog page for this book and we’ll agitate for a reprint with corrections just as soon as humanly possible.)</para>
+</dedication>

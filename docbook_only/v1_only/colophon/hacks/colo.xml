@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE colophon PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<colophon id="colophon">
+  <title>Colophon</title>  
+  <para>The cover image is from FILL IN CREDITS. The cover fonts are URW Typewriter 
+  and Guardian Sans. The text font is Benton Sans; the heading font is Benton Sans;
+  and the code font is Dalton Maag's Ubuntu Mono.</para>
+</colophon>

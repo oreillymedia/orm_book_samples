@@ -1,0 +1,4 @@
+[colophon]
+= Colophon
+
+The cover and body font is Benton Sans, the heading font is Serifa, and the code font is Bitstream Vera Sans Mono.

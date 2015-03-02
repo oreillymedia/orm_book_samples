@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE part PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<part>
+  <title>Getting Started</title>
+
+  <partintro>
+    <para>The &lt;partintro&gt; element is not required. But if you want any introductory text on the part page, it goes here.</para>
+  </partintro>
+
+  <xi:include href="ch01.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+</part>

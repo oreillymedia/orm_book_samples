@@ -1,0 +1,4 @@
+[colophon]
+= Colophon
+
+The cover image is from FILL IN CREDITS. The cover fonts are URW Typewriter and Guardian Sans. The text font is Benton Sans; the heading font is Benton Sans; and the code font is Dalton Maag's Ubuntu Mono.

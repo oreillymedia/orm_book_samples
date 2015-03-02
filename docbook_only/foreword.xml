@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<preface id="foreword">
+  <prefaceinfo>
+    <author>
+      <firstname>Firstname</firstname>
+
+      <surname>Lastname</surname>
+    </author>
+  </prefaceinfo>
+
+  <title>Foreword</title>
+
+  <para>The world of web services has been on a fast track to supernova ever
+  since the architect astronauts spotted another meme to rocket out of
+  pragmatism and into the universe of enterprisey. But thankfully all is not
+  lost, for you can rewrite this placeholder text!</para>
+
+  <para>If you want your Foreword to have an attribution at the end, use the
+  <literal>&lt;prefaceinfo&gt;</literal> element as demonstrated here. The
+  stylesheets will render this as a right-aligned “—Firstname Lastname” below
+  the final paragraph.</para>
+</preface>

@@ -1,0 +1,27 @@
+[[unique_part_id]]
+= Part Title
+
+[partintro]
+--
+If you want to group your chapters into parts, add the part markup to the top of the file that should be the first chapter in that part, above the chapter title.
+
+The +partintro+ section is not required. But if you want any introductory text on the part page, it goes here.
+--
+
+
+[[unique_chapter_id]]
+== Chapter Title
+
+Chapter text begins here.
+
+=== Top-Level Heading
+
+Within a chapter, the first and highest heading level uses three equals signs.
+
+==== Second-Level Heading
+
+The second-level heading uses four equals signs.
+
+===== Third-level heading
+
+The third-level heading uses five equals signs.

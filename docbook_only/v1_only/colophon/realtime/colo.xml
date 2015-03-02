@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE colophon PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<colophon id="colophon">
+  <title>Colophon</title>  
+  <para>The animal on the cover of <emphasis>FILL IN TITLE</emphasis>
+  is FILL IN DESCRIPTION.
+  </para> 
+   <para>Many of the animals on O'Reilly covers are endangered; all of them are important to the world. To learn more about how you can help, go to <ulink url="http://animals.oreilly.com">animals.oreilly.com</ulink>.</para>
+  <para>The cover image is from FILL IN CREDITS. The cover fonts are URW Typewriter 
+  and Guardian Sans. The text font is Adobe Minion Pro; the heading font is Adobe
+  Myriad Condensed; and the code font is Dalton Maag's Ubuntu Mono.</para>
+</colophon>

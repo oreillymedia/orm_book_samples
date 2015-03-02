@@ -1,0 +1,4 @@
+[colophon]
+= Colophon
+
+The cover and body fonts are Scala Pro, the heading font is Benton Sans, and the code font is TheSansMono Condensed.
