@@ -15,6 +15,7 @@ SCRIPT DETAILS TO COME
   * book files for use with all Atlas projects regardless of content format
   * pdf.css (common theme overrides)
   * layout.html (use to specify EPUB/MOBI metadata)
+  * README.md (this file)
 * asciidoc_only/
   * book files for use in AsciiDoc projects only
   * v1_only/
