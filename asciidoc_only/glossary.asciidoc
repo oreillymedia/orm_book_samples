@@ -1,0 +1,9 @@
+[[glossary]]
+== Glossary
+
+A glossary contains a collection of terms and brief descriptions or definitions of those terms. The basic markup follows.
+
+[glossary]
+Gloss Term:: Gloss definition.
+
+Gloss Term 2:: Gloss definition 2.

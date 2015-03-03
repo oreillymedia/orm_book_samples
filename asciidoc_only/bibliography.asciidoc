@@ -1,0 +1,6 @@
+[[bibliography]]
+[appendix]
+[role="bibliography"]
+== Bibliography
+
+Bibliography content starts here.

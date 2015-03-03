@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliography PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<bibliography>
+<title>Bibliography</title>
+
+<para>Bibliography content starts here.</para>
+
+<!--
+Following are two types of formal bibliography entries available in docbook.
+
+"The two styles of bibliography entry have quite different processing expectations. BiblioEntrys are “raw;” they contain a database-like collection of named fields. BiblioMixed entries are “cooked;” the fields occur in the order in which they will be presented and additional punctuation may be sprinkled between the fields."
+
+For more, see http://www.docbook.org/tdg/en/html/bibliography.html.
+-->
+
+<biblioentry>
+  <abbrev>AhoSethiUllman96</abbrev>
+  <authorgroup>
+    <author><firstname>Alfred V.</firstname><surname>Aho</surname></author>
+    <author><firstname>Ravi</firstname><surname>Sethi</surname></author>
+    <author><firstname>Jeffrey D.</firstname><surname>Ullman</surname></author>
+  </authorgroup>
+  <copyright><year>1996</year>
+             <holder>Bell Telephone Laboratories, Inc.</holder></copyright>
+  <editor><firstname>James T.</firstname><surname>DeWolf</surname></editor>
+  <isbn>0-201-10088-6</isbn>
+  <publisher>
+    <publishername>Addison-Wesley Publishing Company</publishername>
+  </publisher>
+  <title>Compilers, Principles, Techniques, and Tools</title>
+</biblioentry>
+
+<bibliomixed>
+  <bibliomset relation='article'>
+    <surname>Walsh</surname>, <firstname>Norman</firstname>.
+    <title role='article'>Introduction to Cascading Style Sheets</title>.
+  </bibliomset>
+  <bibliomset relation='journal'>
+    <title>The World Wide Web Journal</title> 
+    <volumenum>2</volumenum><issuenum>1</issuenum>.
+    <publishername>O'Reilly &amp; Associates, Inc.</publishername> and
+    <corpname>The World Wide Web Consortium</corpname>.
+    <pubdate>Winter, 1996</pubdate></bibliomset>.
+</bibliomixed>
+
+</bibliography>
