@@ -5,7 +5,33 @@ This directory contains skeleton/boilerplate book files for use with the O'Reill
 ----
 NOTE: If you update any boilerplate in this repo, please update each filetype (HTMLBook, AsciiDoc, DocBook) as necessary and then deploy to the Atlas templates with the following:
 
-SCRIPT DETAILS TO COME
+Script Man File:
+
+Usage
+$ [options] v2sample_template_update
+
+Examples
+$ peripheral=true v2sample_template_update
+$ format_specific=true asc=true v2sample_template_update
+
+Variables
+
+peripheral
+   =true  - Specifies that peripheral files should be updated (this updates to every template) 
+
+format_specific
+   =all    - (NOTE ADDED YET) Pushes updates to each atlas template's format specific files
+   =true   - Use in conjunction with a asc/db/html variables to specify which main content files
+             should be updated.    
+   asc
+      =true  - Specifies that the asciidoc template repo's format specific files will be updated
+   db
+      =true  - Specifies that the docbook template repo's format specific files will be updated
+   html
+      =true  - Specifies that the htmlbook template repo's format specific files will be updated
+
+eso
+    =true   - (NOT ADDED YET) used for pushing esoteric files (in case we want this)
 
 ----
 
