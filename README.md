@@ -2,7 +2,7 @@
 
 This directory contains skeleton/boilerplate book files for use with the O'Reilly Media, Inc. internal publishing tools.
 
-Steps for updating Atlas template repos.
+## Steps for updating Atlas template repos
 
 <ol>
 <li>
