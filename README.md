@@ -68,7 +68,7 @@ $ peripheral=true format_specific=true asc=true db=true html=true v2sample_templ
 ----
 NOTE: If you update any boilerplate in this repo, please update each filetype (HTMLBook, AsciiDoc, DocBook) as necessary and then deploy to the Atlas templates with the following:
 
-Script Man File:
+Script Man File (current as of 3/12/2015):
 ```
 Usage
 $ [options] v2sample_template_update
