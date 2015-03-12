@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<chapter id="unique_chapter_id">
+  <title>Chapter Title</title>
+  <para>Chapter text begins here. Replace any of this placeholder text with your opus. The following portion outlines heading levels and section structure.</para>
+  <sect1 id="_this_is_a_top_level_heading_a_head">
+    <title>This Is a Top-Level Heading (A-Head)</title>
+    <para>Section text begins here.</para>
+    <sect2 id="_this_is_a_second_level_heading_b_head">
+      <title>This Is a Second-Level Heading (B-Head)</title>
+      <para>Your text goes here.</para>
+      <sect3 id="_this_is_a_third_level_heading_c_head">
+        <title>This Is a Third-Level Heading (C-Head)</title>
+        <para>Section content goes here.</para>
+        <sect4 id="_this_is_a_fourth_level_heading_d_head">
+          <title>This Is a Fourth-Level Heading (D-Head)</title>
+          <para>Section content goes here.</para>
+          <sect5 id="_this_is_a_fifth_level_heading">
+            <title>This Is a Fifth-Level Heading</title>
+            <para>This is the lowest level of section delineation available, but is not commonly used.</para>
+
+<para>Next we've included a few examples of commonly used block elements. You can add these elements using the buttons in the toolbar, as well.</para>
+
+<note>
+<title>This Is a Note</title>
+<para>Many people use notes to qualify a statement they made in the preceding paragraphs, or to warn their readers about pitfalls they might run into.</para>
+</note>
+
+<warning>
+<para>This is a warning, used to alert readers to something important or encourage caution. Headings are optional for admonitions like notes and warnings.</para>
+</warning>
+
+<para>Here is an informal code listing:</para>
+
+<programlisting language="python">print('hello world')</programlisting>
+
+<para>And this is a formal listing, or example:</para>
+
+<example id="EX1">
+<title>Hello World in Python</title>
+<programlisting language="python">print "Hello World"
+# Formal listings have titles that will be numbered in output.</programlisting>
+</example>
+
+<para>For either type of listing, you have the option of specifying the code language displayed via the language attribute.</para>
+
+<para>You can also specify inline text as code: <literal>print "Hello World"</literal>.</para>
+
+<para>Now, let's take a look at a figure with a caption:</para>
+
+<figure>
+<title>Figures like this will be automatically numbered in output.</title>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="images/tarsier.png" format="PNG"/>
+  </imageobject>
+<textobject><phrase>Drawing of Tarsiers</phrase></textobject>
+</mediaobject>
+</figure>
+
+<para>Here is a blockquote with an author attribution:</para>
+
+<blockquote>
+<attribution>Lewis Carol</attribution>
+<para>Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, <emphasis>and what is the use of a book,</emphasis> thought Alice <emphasis>without pictures or conversation?</emphasis></para>
+</blockquote>
+
+<para>There are three types of lists available. Numbered (ordered) lists are often used to describe steps in a process:</para>
+
+<orderedlist>
+  <listitem>
+    <para>Parse the request.</para>
+  </listitem>
+  <listitem>
+    <para>Choose a handler function.</para>
+  </listitem>
+  <listitem>
+    <para>Run the handler function.</para>
+  </listitem>
+</orderedlist>
+
+<para>Bulleted (unordered) lists are good for describing a set of requirements:</para>
+
+<itemizedlist>
+  <listitem>
+    <para>HTML source</para>
+  </listitem>
+  <listitem>
+    <para>CSS stylesheets</para>
+  </listitem>
+  <listitem>
+    <para>JavaScript code</para>
+  </listitem>
+</itemizedlist>
+
+<para>Definition/variable lists serve as glossaries of terminology:</para>
+
+<variablelist>
+<varlistentry>
+  <term>selectSource</term>
+  <listitem>
+    <para>Returns a Source containing all the IDs and values from the database. This allows you to write streaming code.</para>
+  </listitem>
+</varlistentry>
+<varlistentry>
+  <term>selectList</term>
+  <listitem>
+    <para>Returns a list containing all the IDs and values from the database. All records will be loaded into memory.</para>
+  </listitem>
+</varlistentry>
+<varlistentry>
+  <term>selectFirst</term>
+  <listitem>
+    <para>Takes just the first ID and value from the database, if available.</para>
+  </listitem>
+</varlistentry>
+<varlistentry>
+  <term>selectKeys</term>
+  <listitem>
+    <para>Returns only the keys, without the values, as a <literal>Source</literal>.</para>
+  </listitem>
+</varlistentry>
+</variablelist>
+
+<sidebar>
+<title>Sidebar Title</title>
+<para>Here's a sidebar. Sidebars are great for setting aside a section of text that is related to the surrounding content but that doesn't necessarily fit into the main flow.</para>
+</sidebar>
+
+<para>Finally, here's a sample table:</para>
+
+<table>
+<title>Features supported by Hadoop release series</title>
+<tgroup cols="4">
+  <thead>
+    <row>
+    <entry>Feature</entry>
+    <entry>1.x</entry>
+    <entry>0.22</entry>
+    <entry>2.x</entry>
+    </row>
+  </thead>
+  <tbody>
+    <row>
+    <entry><para>Secure authentication</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>No</para></entry>
+    <entry><para>Yes</para></entry>
+    </row>
+    <row>
+    <entry><para>Old configuration names</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>Deprecated</para></entry>
+    <entry><para>Deprecated</para></entry>
+    </row>
+    <row>
+    <entry><para>New configuration names</para></entry>
+    <entry><para>No</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>Yes</para></entry>
+    </row>
+    <row>
+    <entry><para>Old MapReduce API</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>Yes</para></entry>
+    </row>
+    <row>
+    <entry><para>New MapReduce API</para></entry>
+    <entry><para>Yes (with some missing libraries)</para></entry>
+    <entry><para>Yes</para></entry>
+    <entry><para>Yes</para></entry>
+    </row>
+  </tbody>
+</tgroup>
+</table>
+
+          </sect5>
+        </sect4>
+      </sect3>
+    </sect2>
+  </sect1>
+</chapter>
