@@ -65,11 +65,10 @@ Please address comments and questions concerning this book to the publisher:
 ++++
 <ul class="simplelist">
   <li>Make:</li>
-  <li>1005 Gravenstein Highway North</li>
-  <li>Sebastopol, CA 95472</li>
-  <li>800-998-9938 (in the United States or Canada)</li>
-  <li>707-829-0515 (international or local)</li>
-  <li>707-829-0104 (fax)</li>
+  <li>1160 Battery Street East, Suite 125</li>
+  <li>San Francisco, CA 94111</li>
+  <li>877-306-6253 (in the United States or Canada)</li>
+  <li>707-639-1355 (international or local)</li>
 </ul>
 ++++
 
