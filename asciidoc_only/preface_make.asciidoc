@@ -42,12 +42,12 @@ We appreciate, but do not require, attribution. An attribution usually includes 
 
 If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at pass:[<a class="email" href="mailto:bookpermissions@makermedia.com"><em>bookpermissions@makermedia.com</em></a>].
 
-=== Safari® Books Online
+=== O'Reilly Safari
 
 [role = "safarienabled"]
 [NOTE]
 ====
-pass:[<a href="http://safaribooksonline.com" class="orm:hideurl:ital"><em class="hyperlink">Safari Books Online</em></a>] is an on-demand digital library that delivers expert pass:[<a href="https://www.safaribooksonline.com/explore/" class="orm:hideurl">content</a>] in both book and video form from the world&#8217;s leading authors in technology and business.
+pass:[<a href="http://oreilly.com/safari" class="orm:hideurl:ital"><em class="hyperlink">Safari</em></a>] (formerly Safari Books Online) is a membership-based training and reference platform for enterprise, government, educators, and individuals. 
 ====
 
 Technology professionals, software developers, web designers, and business and creative professionals use Safari Books Online as their primary resource for research, problem solving, learning, and certification training.
