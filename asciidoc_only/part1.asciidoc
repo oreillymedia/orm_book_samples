@@ -1,5 +1,6 @@
 [[unique_part_id]]
-= Part Title
+[part]
+== Part Title
 
 [partintro]
 --
