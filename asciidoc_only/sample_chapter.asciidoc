@@ -1,4 +1,4 @@
-[[unique_chapter_id]]
+[[unique_chapter_id_01]]
 == Chapter Title
 
 Chapter text begins here. Replace any of this placeholder text with your opus. The following portion outlines heading levels and section structure.
@@ -104,3 +104,12 @@ Finally, here's a sample table:
 |New MapReduce API|Yes (with some missing libraries)|Yes|Yes
 |=======
 
+To insert a cross-reference, first add a block ID for the element to which you're referring. The block ID is a unique identifier enclosed in double square brackets. Place it on a single line above the block element (figure, table, section, etc.).
+
+Here's a cross-reference to <<unique_id_01>>. Here's one to <<unique_id_02>>. Finally, here's one to <<unique_chapter_id_01>>.
+
+For the book to be valid, ids must be unique across the entire book, have no spaces, and not start with a number.
+
+O'Reilly house style calls for every formal figure, formal table, and formal code example to be preceded by a specific in-text reference. Formal figures and formal tables are created when you add captions to these elements.
+
+To include hyperlinks to external sources, add the full URL followed by the anchor text enclosed in single square brackets. This, for example, is a link to the https://www.oreilly.com/[O'Reilly home page]. The bracketed text will become a clickable link in web versions. In print versions, it will appear in the text, followed by the actual URL in parentheses.
