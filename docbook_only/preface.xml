@@ -95,17 +95,15 @@
   </sect1>
 
   <sect1>
-    <title>O'Reilly Safari</title>
+       <title>O'Reilly</title>
 
-    <note role="safarienabled">
-      <para><ulink role="orm:hideurl"
-      url="http://oreilly.com/safari">Safari</ulink> (formerly Safari Books Online) is a membership-based training and reference platform for enterprise, government, educators, and individuals.</para>
+    <note role="ormenabled">
+      <para>For almost 40 years, <ulink role="orm:hideurl"
+      url="http://oreilly.com">O'Reilly</ulink> has provided technology and business training, knowledge, and insight to help companies succeed.</para>
     </note>
 
-    <para>Members have access to thousands of books, training videos, Learning Paths, interactive tutorials, and curated playlists from over 250 publishers, including O’Reilly Media, Harvard Business Review, Prentice Hall Professional, Addison-Wesley Professional, Microsoft Press, Sams, Que, Peachpit Press, Adobe, Focal Press, Cisco Press, John Wiley &amp; Sons, Syngress, Morgan Kaufmann, IBM Redbooks, Packt, Adobe Press, FT Press, Apress, Manning, New Riders, McGraw-Hill, Jones &amp; Bartlett, and Course Technology, among others. </para>
-
-    <para>For more information, please visit <ulink role="orm:hideurl"
-                                                    url="http://www.oreilly.com/safari"><emphasis>http://oreilly.com/safari</emphasis></ulink>.</para>
+    <para> Our unique network of experts and innovators share their knowledge and expertise through books, articles, conferences, and our online learning platform. O’Reilly’s online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, please visit <ulink role="orm:hideurl"
+                                                    url="http://www.oreilly.com"><emphasis>http://oreilly.com</emphasis></ulink>.</para>
 
      </sect1>
 
