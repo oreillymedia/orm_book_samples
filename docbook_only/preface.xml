@@ -72,19 +72,22 @@
 
     <para>Supplemental material (code examples, exercises, etc.) is available
     for download at <ulink url="https://github.com/oreillymedia/title_title"></ulink>.</para>
+    
+        
+    <para>If you have a technical question or a problem using the code examples, please send email to <email>bookquestions@oreilly.com</email>.</para>
 
     <para>This book is here to help you get your job done. In general, if
     example code is offered with this book, you may use it in your programs
     and documentation. You do not need to contact us for permission unless
     you’re reproducing a significant portion of the code. For example, writing
     a program that uses several chunks of code from this book does not require
-    permission. Selling or distributing a CD-ROM of examples from O’Reilly
+    permission. Selling or distributing examples from O’Reilly
     books does require permission. Answering a question by citing this book
     and quoting example code does not require permission. Incorporating a
     significant amount of example code from this book into your product’s
     documentation does require permission.</para>
 
-    <para>We appreciate, but do not require, attribution. An attribution
+    <para>We appreciate, but generally do not require, attribution. An attribution
     usually includes the title, author, publisher, and ISBN. For example:
     “<emphasis>Book Title</emphasis> by Some Author (O’Reilly). Copyright 2012
     Some Copyright Holder, 978-0-596-xxxx-x.”</para>
@@ -94,11 +97,11 @@
     <email>permissions@oreilly.com</email>.</para>
   </sect1>
 
-  <sect1>
+    <sect1>
        <title>O'Reilly Online Learning</title>
 
     <note role="ormenabled">
-      <para>For almost 40 years, <ulink role="orm:hideurl"
+      <para>For more than 40 years, <ulink role="orm:hideurl"
       url="http://oreilly.com">O'Reilly Media</ulink> has provided technology and business training, knowledge, and insight to help companies succeed.</para>
     </note>
 
@@ -106,7 +109,7 @@
                                                     url="http://www.oreilly.com"><emphasis>http://oreilly.com</emphasis></ulink>.</para>
 
      </sect1>
-
+  
   <sect1>
     <title>How to Contact Us</title>
 
