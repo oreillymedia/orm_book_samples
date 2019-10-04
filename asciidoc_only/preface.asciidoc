@@ -36,9 +36,11 @@ This element indicates a warning or caution.
 
 Supplemental material (code examples, exercises, etc.) is available for download at link:$$https://github.com/oreillymedia/title_title$$[].
 
-This book is here to help you get your job done. In general, if example code is offered with this book, you may use it in your programs and documentation. You do not need to contact us for permission unless you’re reproducing a significant portion of the code. For example, writing a program that uses several chunks of code from this book does not require permission. Selling or distributing a CD-ROM of examples from O’Reilly books does require permission. Answering a question by citing this book and quoting example code does not require permission. Incorporating a significant amount of example code from this book into your product’s documentation does require permission.
+If you have a technical question or a problem using the code examples, please send email to pass:[<a class="email" href="mailto:bookquestions@oreilly.com"><em>bookquestions@oreilly.com</em></a>].
 
-We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “_Book Title_ by Some Author (O’Reilly). Copyright 2012 Some Copyright Holder, 978-0-596-xxxx-x.”
+This book is here to help you get your job done. In general, if example code is offered with this book, you may use it in your programs and documentation. You do not need to contact us for permission unless you’re reproducing a significant portion of the code. For example, writing a program that uses several chunks of code from this book does not require permission. Selling or distributing examples from O’Reilly books does require permission. Answering a question by citing this book and quoting example code does not require permission. Incorporating a significant amount of example code from this book into your product’s documentation does require permission.
+
+We appreciate, but generally do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “_Book Title_ by Some Author (O’Reilly). Copyright 2012 Some Copyright Holder, 978-0-596-xxxx-x.”
 
 If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at pass:[<a class="email" href="mailto:permissions@oreilly.com"><em>permissions@oreilly.com</em></a>].
 
@@ -47,7 +49,7 @@ If you feel your use of code examples falls outside fair use or the permission g
 [role = "ormenabled"]
 [NOTE]
 ====
-For almost 40 years, pass:[<a href="http://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] has provided technology and business training, knowledge, and insight to help companies succeed.
+For more than 40 years, pass:[<a href="http://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] has provided technology and business training, knowledge, and insight to help companies succeed.
 ====
 
 Our unique network of experts and innovators share their knowledge and expertise through books, articles, conferences, and our online learning platform. O’Reilly’s online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, please visit pass:[<a href="http://oreilly.com" class="orm:hideurl"><em>http://oreilly.com</em></a>].  
