@@ -77,7 +77,7 @@ We have a web page for this book, where we list errata, examples, and any additi
 
 Email pass:[<a class="email" href="mailto:bookquestions@oreilly.com"><em>bookquestions@oreilly.com</em></a>] to comment or ask technical questions about this book.
 
-For news and information about our books and courses, see our website at link:$$http://oreilly.com$$[].
+For news and information about our books and courses, visit link:$$http://oreilly.com$$[].
 
 Find us on Facebook: link:$$http://facebook.com/oreilly$$[]
 
