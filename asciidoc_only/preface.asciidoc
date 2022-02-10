@@ -49,10 +49,10 @@ If you feel your use of code examples falls outside fair use or the permission g
 [role = "ormenabled"]
 [NOTE]
 ====
-For more than 40 years, pass:[<a href="http://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] has provided technology and business training, knowledge, and insight to help companies succeed.
+For more than 40 years, pass:[<a href="https://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] has provided technology and business training, knowledge, and insight to help companies succeed.
 ====
 
-Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O’Reilly’s online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, visit pass:[<a href="http://oreilly.com" class="orm:hideurl"><em>http://oreilly.com</em></a>].  
+Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O’Reilly’s online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, visit pass:[<a href="https://oreilly.com" class="orm:hideurl"><em>https://oreilly.com</em></a>].
 
 === How to Contact Us
 
@@ -69,7 +69,7 @@ Please address comments and questions concerning this book to the publisher:
 </ul>
 ++++
 
-We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at link:$$http://www.oreilly.com/catalog/<catalog page>$$[].
+We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at link:$$https://www.oreilly.com/catalog/<catalog page>$$[].
 
 ++++
 <!--Don't forget to update the link above.-->
@@ -77,13 +77,13 @@ We have a web page for this book, where we list errata, examples, and any additi
 
 Email pass:[<a class="email" href="mailto:bookquestions@oreilly.com"><em>bookquestions@oreilly.com</em></a>] to comment or ask technical questions about this book.
 
-For news and information about our books and courses, visit link:$$http://oreilly.com$$[].
+For news and information about our books and courses, visit link:$$https://oreilly.com$$[].
 
-Find us on Facebook: link:$$http://facebook.com/oreilly$$[]
+Find us on Facebook: link:$$https://facebook.com/oreilly$$[]
 
-Follow us on Twitter: link:$$http://twitter.com/oreillymedia$$[]
+Follow us on Twitter: link:$$https://twitter.com/oreillymedia$$[]
 
-Watch us on YouTube: link:$$http://www.youtube.com/oreillymedia$$[]
+Watch us on YouTube: link:$$https://www.youtube.com/oreillymedia$$[]
 
 === Acknowledgments
 

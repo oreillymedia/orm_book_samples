@@ -47,7 +47,7 @@ print "Hello World"
 ----
 ====
 
-For either type of listing, you have the option of specifying the code language displayed; see http://docs.atlas.oreilly.com/ch12.html#asciidocref for more details.
+For either type of listing, you have the option of specifying the code language displayed; see https://docs.atlas.oreilly.com/ch12.html#asciidocref for more details.
 
 You can also specify inline text as code: +print "Hello World"+.
 
