@@ -79,7 +79,7 @@ Email pass:[<a class="email" href="mailto:bookquestions@oreilly.com"><em>bookque
 
 For news and information about our books and courses, visit link:$$https://oreilly.com$$[].
 
-Find us on Facebook: link:$$https://facebook.com/oreilly$$[]
+Find us on LinkedIn: link:$$https://linkedin.com/company/oreilly-media$$[]
 
 Follow us on Twitter: link:$$https://twitter.com/oreillymedia$$[]
 
