@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+parts:
+  - caption: Part Title  # Note that Jupyter Book does not support text on part pages
+    chapters:
+    - file: preface  # The preface will be moved automatically ahead of the part page in Atlas
+    - file: ch01
+    - file: sample_chapter
+    - file: appx_a
