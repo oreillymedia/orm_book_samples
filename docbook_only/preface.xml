@@ -74,7 +74,7 @@
     for download at <ulink url="https://github.com/oreillymedia/title_title"></ulink>.</para>
     
         
-    <para>If you have a technical question or a problem using the code examples, please send email to <email>bookquestions@oreilly.com</email>.</para>
+    <para>If you have a technical question or a problem using the code examples, please send email to <email>support@oreilly.com</email>.</para>
 
     <para>This book is here to help you get your job done. In general, if
     example code is offered with this book, you may use it in your programs
@@ -123,11 +123,14 @@
 
       <member>Sebastopol, CA 95472</member>
 
-      <member>800-998-9938 (in the United States or Canada)</member>
+      <member>800-889-8969 (in the United States or Canada)</member>
 
-      <member>707-829-0515 (international or local)</member>
+      <member>707-829-7019 (international or local)</member>
 
       <member>707-829-0104 (fax)</member>
+      <member><emphasis>support@oreilly.com</emphasis></member>
+      <member> <ulink
+    url="<li><a href="https://www.oreilly.com/about/contact.html"></ulink></member>
     </simplelist>
 
     <para>We have a web page for this book, where we list errata, examples,
@@ -136,19 +139,17 @@
 
     <remark>Don’t forget to update the &lt;url&gt; attribute, too.</remark>
 
-    <para>Email <email>bookquestions@oreilly.com</email> to comment or ask technical questions about this book.</para>
-
     <para>For news and information about our books and courses, visit <ulink
     url="http://oreilly.com"></ulink>.</para>
 
-    <para>Find us on Facebook: <ulink
-    url="http://facebook.com/oreilly"></ulink></para>
+    <para>Find us on LinkedIn: <ulink
+    url="https://linkedin.com/company/oreilly-media"></ulink></para>
 
     <para>Follow us on Twitter: <ulink
-    url="http://twitter.com/oreillymedia"></ulink></para>
+    url="https://twitter.com/oreillymedia"></ulink></para>
 
     <para>Watch us on YouTube: <ulink
-    url="http://www.youtube.com/oreillymedia"></ulink></para>
+    url="https://www.youtube.com/oreillymedia"></ulink></para>
   </sect1>
 
   <sect1>
