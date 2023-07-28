@@ -1,5 +1,5 @@
-[[unique_chapter_id_01]]
-== Chapter Title
+[[sample_chapter_unique_id]]
+== Sample Chapter
 
 Chapter text begins here. Replace any of this placeholder text with your opus. The following portion outlines heading levels and section structure.
 
@@ -37,7 +37,7 @@ print('hello world')
 
 And this is a formal listing, or example:
 
-[[EX1]]
+[[example_code_block]]
 .Hello World in Python
 ====
 [source,python]
@@ -47,7 +47,7 @@ print "Hello World"
 ----
 ====
 
-For either type of listing, you have the option of specifying the code language displayed; see https://docs.atlas.oreilly.com/ch12.html#asciidocref for more details.
+For either type of listing, you have the option of specifying the code language displayed; see the Code section of the Atlas user docs here -  https://docs.atlas.oreilly.com/writing_in_asciidoc.html for more details.
 
 You can also specify inline text as code: +print "Hello World"+.
 
@@ -58,7 +58,7 @@ image::images/tarsier.png["Drawing of Tarsiers"]
 
 Here is a blockquote with an author attribution:
 
-[quote, Lewis Carol]
+[quote, Lewis Caroll]
 ____
 Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?'
 ____
@@ -93,6 +93,7 @@ Here's a sidebar. Sidebars are great for setting aside a section of text that is
 
 Finally, here's a sample table:
 
+[[example_table]]
 .Features supported by Hadoop release series
 [options="header"]
 |=======
@@ -106,10 +107,33 @@ Finally, here's a sample table:
 
 To insert a cross-reference, first add a block ID for the element to which you're referring. The block ID is a unique identifier enclosed in double square brackets. Place it on a single line above the block element (figure, table, section, etc.).
 
-Here's a cross-reference to <<unique_id_01>>. Here's one to <<unique_id_02>>. Finally, here's one to <<unique_chapter_id_01>>.
+Here's a cross-reference to <<example_code_block>>. Here's one to <<example_table>>. Finally, here's one to <<sample_chapter_unique_id>>.
 
 For the book to be valid, ids must be unique across the entire book, have no spaces, and not start with a number.
 
 O'Reilly house style calls for every formal figure, formal table, and formal code example to be preceded by a specific in-text reference. Formal figures and formal tables are created when you add captions to these elements.
 
 To include hyperlinks to external sources, add the full URL followed by the anchor text enclosed in single square brackets. This, for example, is a link to the https://www.oreilly.com/[O'Reilly home page]. The bracketed text will become a clickable link in web versions. In print versions, it will appear in the text, followed by the actual URL in parentheses.
+
+=== Creating a Book Build in Atlas 
+A helpful feature of Atlas is to create a book build in real time. This build shows the interior design of the book in PDF format, which allows you to see how elements will render on the print page. 
+
+First, go to the Dashboard tab of your book project. Then, look to the right panel, click the "PDF" box, and hit "Build". Atlas will take a moment to generate the pages. A "Download" button will appear - click this, and a PDF will open in your web browseer. This PDF may then be saved locally. 
+
+[TIP]
+====
+If the Build button on the configure tab is grayed out, simply refresh the browser. The Build button should then become active.
+====
+
+==== Adding a Chapter to the Book Build 
+In order to add a new chapter in Atlas, you'll need to make an adjustment to the Cofnigure tab in Atlas. 
+
+. Move to the Configure tab in the book project in Atlas. 
+. Scroll down to the middle section of the subsequent page under "Files". Find the chapter you'd like to add, and click the + symbol.  
+. This will move the chapter to the "Build Contents" section on the right side of the page. 
+.  Use the three stacked lines to reorder the chapters as desired. 
+. Once your contents list looks correct, scroll down the page to click the "Save Settings" button. 
+.  Go back to the Dashboard tab, and repeat the steps to create a Book Build as discussed in the previous section. 
+
+The generated PDF should now include the new chapter you just added, and the Table of Contents will reflect the new addition automatically. 
+
