@@ -42,7 +42,7 @@ And this is a formal listing, or example:
 ====
 [source,python]
 ----
-print "Hello World"
+print("Hello World")
 # Formal listings have titles that will be numbered in output.
 ----
 ====
