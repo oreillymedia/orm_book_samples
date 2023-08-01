@@ -118,7 +118,7 @@ To include hyperlinks to external sources, add the full URL followed by the anch
 === Creating a Book Build in Atlas 
 A helpful feature of Atlas is to create a book build in real time. This build shows the interior design of the book in PDF format, which allows you to see how elements will render on the print page. 
 
-First, go to the Dashboard tab of your book project. Then, look to the right panel, click the "PDF" box, and hit "Build". Atlas will take a moment to generate the pages. A "Download" button will appear - click this, and a PDF will open in your web browseer. This PDF may then be saved locally. 
+First, go to the Dashboard tab of your book project. Then, look to the right panel, click the "PDF" box, and hit "Build". Atlas will take a moment to generate the pages. A "Download" button will appear - click this, and a PDF will open in your web browser. This PDF may then be saved locally. 
 
 [TIP]
 ====
@@ -126,14 +126,20 @@ If the Build button on the configure tab is grayed out, simply refresh the brows
 ====
 
 ==== Adding a Chapter to the Book Build 
-In order to add a new chapter in Atlas, you'll need to make an adjustment to the Cofnigure tab in Atlas. 
+In order to add a new chapter to your book in Atlas, you'll need to make an adjustment to the Configure tab in Atlas. 
 
 . Move to the Configure tab in the book project in Atlas. 
-. Scroll down to the middle section of the subsequent page under "Files". Find the chapter you'd like to add, and click the + symbol.  
+. Scroll to the middle section of the page under "Files." Find the chapter you'd like to add and click the + symbol.   
 . This will move the chapter to the "Build Contents" section on the right side of the page. 
 .  Use the three stacked lines to reorder the chapters as desired. 
-. Once your contents list looks correct, scroll down the page to click the "Save Settings" button. 
-.  Go back to the Dashboard tab, and repeat the steps to create a Book Build as discussed in the previous section. 
+. Once your contents list looks correct, scroll down the page to click "Save Settings." 
+.  Go back to the Dashboard and run a new book build as discussed in the previous section to verify your changes.
 
 The generated PDF should now include the new chapter you just added, and the Table of Contents will reflect the new addition automatically. 
+
+
+[Note]
+====
+You can also update the build contents by editing the "files" array in the atlas.json file in the repository. Changes to the build contents made using the Configure tab will be reflected in atlas.json file, and vice versa.
+====
 
