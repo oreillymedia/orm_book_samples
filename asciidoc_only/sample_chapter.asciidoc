@@ -138,7 +138,7 @@ In order to add a new chapter to your book in Atlas, you'll need to make an adju
 The generated PDF should now include the new chapter you just added, and the Table of Contents will reflect the new addition automatically. 
 
 
-[Note]
+[NOTE]
 ====
 You can also update the build contents by editing the "files" array in the atlas.json file in the repository. Changes to the build contents made using the Configure tab will be reflected in atlas.json file, and vice versa.
 ====
