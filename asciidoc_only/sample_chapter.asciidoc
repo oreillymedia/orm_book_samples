@@ -15,7 +15,18 @@ The second-level heading uses four equals signs. This heading level should only 
 
 The third-level heading uses five equals signs. This heading level should only follow a second-level heading (B-head).
 
-Next we've included a few examples of commonly used block elements. You can add these elements using the buttons in the toolbar, as well.
+
+=== Atlas User Docs and Examples
+
+Here are the https://docs.atlas.oreilly.com[Atlas user docs]. Here is the section on https://docs.atlas.oreilly.com/writing_in_asciidoc.html[writing in AsciiDoc]. 
+
+Here are a few examples of commonly used elements. 
+
+.This is a Tip
+[TIP]
+====
+This element signifies a tip or suggestion.
+====
 
 .This Is a Note
 [NOTE]
@@ -47,7 +58,7 @@ print("Hello World")
 ----
 ====
 
-For either type of listing, you have the option of specifying the code language displayed; see the Code section of the Atlas user docs here -  https://docs.atlas.oreilly.com/writing_in_asciidoc.html for more details.
+For either type of listing, you have the option of specifying the code language displayed; see the Code sub-section of the https://docs.atlas.oreilly.com/writing_in_asciidoc.html[Writing in AsciiDoc section] of the Atlas user docs for more details.
 
 You can also specify inline text as code: +print ("Hello World")+.
 
@@ -138,7 +149,7 @@ In order to add a new chapter to your book in Atlas, you'll need to make an adju
 The generated PDF should now include the new chapter you just added, and the Table of Contents will reflect the new addition automatically. 
 
 
-[NOTE]
+[TIP]
 ====
 You can also update the build contents by editing the "files" array in the atlas.json file in the repository. Changes to the build contents made using the Configure tab will be reflected in the atlas.json file, and vice versa.
 ====
