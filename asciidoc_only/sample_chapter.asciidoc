@@ -20,13 +20,7 @@ The third-level heading uses five equals signs. This heading level should only f
 
 Here are the https://docs.atlas.oreilly.com[Atlas user docs]. Here is the section on https://docs.atlas.oreilly.com/writing_in_asciidoc.html[writing in AsciiDoc]. 
 
-Here are a few examples of commonly used elements. 
-
-.This is a Tip
-[TIP]
-====
-This element signifies a tip or suggestion.
-====
+Next we've included a few examples of commonly used block elements. You can add these elements using the buttons in the toolbar, as well.
 
 .This Is a Note
 [NOTE]
