@@ -127,7 +127,7 @@ First, go to the Dashboard tab of your book project. Then, look to the right pan
 
 [TIP]
 ====
-If the Build button on the configure tab is grayed out, simply refresh the browser. The Build button should then become active.
+If the Build button is grayed out, simply refresh the browser. The Build button should then become active.
 ====
 
 ==== Adding a Chapter to the Book Build 
