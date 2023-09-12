@@ -3,6 +3,15 @@
 /*--------Put Your Custom CSS Rules Below--------*/
 /*--- This oneoff overrides the code in https://github.com/oreillymedia/<name_of_theme>/blob/master/pdf/pdf.css---*/
 
+/*---Less space for section pagebreaks (AsciiDoc)---*/
+section.less_space > h3:first-child,
+section.less_space > h2:first-child,
+section.less_space > h1:first-child
+{ margin-top: 0 !important; }
+
+/*---Less space for pagebreaks (HTML & AsciiDoc)---*/
+.less_space {margin-top: 0 !important;}
+
 /*----Uncomment to temporarily turn on code-eyballer highlighting (make sure to recomment after you build)
 
 pre {
