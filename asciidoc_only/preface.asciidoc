@@ -67,7 +67,7 @@ Please address comments and questions concerning this book to the publisher:
   <li>707-827-7019 (international or local)</li>
   <li>707-829-0104 (fax)</li>
   <li><a class="email" href="mailto:support@oreilly.com"><em>support@oreilly.com</em></a></li>
-  <li><a href="https://www.oreilly.com/about/contact.html"><em>https://www.oreilly.com/about/contact.html</em></a></li>
+  <li><a href="https://oreilly.com/about/contact.html"><em>https://oreilly.com/about/contact.html</em></a></li>
 </ul>
 ++++
 
