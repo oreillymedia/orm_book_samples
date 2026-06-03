@@ -16,7 +16,7 @@
 
         <listitem>
           <para>Indicates new terms, URLs, email addresses, filenames, and
-          file extensions.</para>
+          file extensions</para>
         </listitem>
       </varlistentry>
 
@@ -27,7 +27,7 @@
           <para>Used for program listings, as well as within paragraphs to
           refer to program elements such as variable or function names,
           databases, data types, environment variables, statements, and
-          keywords.</para>
+          keywords</para>
         </listitem>
       </varlistentry>
 
@@ -36,7 +36,7 @@
 
         <listitem>
           <para>Shows commands or other text that should be typed literally by
-          the user.</para>
+          the user</para>
         </listitem>
       </varlistentry>
 
@@ -45,7 +45,7 @@
 
         <listitem>
           <para>Shows text that should be replaced with user-supplied values
-          or by values determined by context.</para>
+          or by values determined by context</para>
         </listitem>
       </varlistentry>
     </variablelist>
